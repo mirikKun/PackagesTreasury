@@ -1,9 +1,16 @@
+# Unity3D Tools
+
+## Description
+A toolkit for Unity3D that simplifies development and speeds up project prototyping.
+
+## Features
+
 Contains such systems:
--user model saving system
--sounds loading system with settings logic
--basic infrastructure for project prototyping
+- User model saving system
+- Sounds loading system with settings logic
+- Basic infrastructure for project prototyping
 
 Also has:
--variety of extension methods
--textures for effects and particles materials
--custom editor attributes
+- Variety of extension methods
+- Textures for effects and particles materials
+- Custom editor attributes
